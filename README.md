@@ -1,4 +1,4 @@
-#Dynamic Image Generator
+# Dynamic Image Generator
 
 A simple Express based server that dynamically generated images
 
